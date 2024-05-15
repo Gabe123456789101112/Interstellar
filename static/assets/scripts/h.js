@@ -166,7 +166,7 @@ document.addEventListener("DOMContentLoaded", function (event) {
 let SplashT = [
   "Over 8 Million Users since 2023",
   "Fastest growing proxy server",
-  "Made by GabeNigga",
+  "Made by GabeStump",
   "Check out my discord savagekiller21_8014 :)",
   "Thanks for using the site",
   "Follow us on Tiktok (@gabe7209)",
