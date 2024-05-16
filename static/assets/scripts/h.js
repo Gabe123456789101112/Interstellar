@@ -32,7 +32,7 @@ if (!inFrame && !navigator.userAgent.includes("Firefox")) {
     doc.head.appendChild(link)
     doc.body.appendChild(iframe)
 
-    const pLink = localStorage.getItem(encodeURI("pLink")) || "https://mybcbe.rapididentity.com/"
+    const pLink = localStorage.getItem(encodeURI("pLink")) || "https://googleclassroom.com"
     location.replace(pLink)
 
     const script = doc.createElement("script")
