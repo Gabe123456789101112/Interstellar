@@ -169,11 +169,11 @@ let SplashT = [
   "Check out my discord savagekiller21_8014 :)",
   "Thanks for using the site",
   "Follow us on Tiktok (@gabe7209)",
-  "Subscribe to us on YouTube (@Markiplier)",
-  "Subscribe to my YouTube (Dont worry abt it)",
+  "Subscribe to us on YouTube (We don't have one yet)",
+  "Subscribe to my YouTube (We don't have one yet)",
   "Check out the settings page",
   "Check out our Patreon (We don't have one yet)",
-  "To keep Big Daddy Gabe alive cash app me to keep the server running $gabe7209"
+  "To keep Gabe's Worse UBNX alive cash app me to keep the server running for free $gabe7209"
 ]
 
 let SplashI = Math.floor(Math.random() * SplashT.length)
